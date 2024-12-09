@@ -1,11 +1,11 @@
 namespace UnitTest___TDD
 {
     [TestClass]
-    public class UnitTest1
+    public class RESTTest
     {
         [TestMethod]
-        public void TestMethod1()
-        {
+        public void TestGetAll()
+        {//Hello
         }
     }
 }

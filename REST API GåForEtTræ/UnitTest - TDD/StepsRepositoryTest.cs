@@ -6,7 +6,12 @@ using System.Threading.Tasks;
 
 namespace UnitTest___TDD
 {
-    internal class StepsRepositoryTest
+    [TestClass]
+    public class StepsRepositoryTest
     {
+        [TestMethod]
+        public void TestGetAll()
+        {
+        }
     }
 }
