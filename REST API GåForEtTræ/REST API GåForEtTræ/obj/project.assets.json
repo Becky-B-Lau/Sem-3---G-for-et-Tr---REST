@@ -447,24 +447,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\fanni\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+    "C:\\Users\\maria\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\fanni\\Desktop\\REST API GåForEtTræ\\REST API GåForEtTræ\\REST API GåForEtTræ.csproj",
+      "projectUniqueName": "C:\\Users\\maria\\OneDrive\\Skrivebord\\Sem-3---G-for-et-Tr---REST\\REST API GåForEtTræ\\REST API GåForEtTræ\\REST API GåForEtTræ.csproj",
       "projectName": "REST API GåForEtTræ",
-      "projectPath": "C:\\Users\\fanni\\Desktop\\REST API GåForEtTræ\\REST API GåForEtTræ\\REST API GåForEtTræ.csproj",
-      "packagesPath": "C:\\Users\\fanni\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\fanni\\Desktop\\REST API GåForEtTræ\\REST API GåForEtTræ\\obj\\",
+      "projectPath": "C:\\Users\\maria\\OneDrive\\Skrivebord\\Sem-3---G-for-et-Tr---REST\\REST API GåForEtTræ\\REST API GåForEtTræ\\REST API GåForEtTræ.csproj",
+      "packagesPath": "C:\\Users\\maria\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\maria\\OneDrive\\Skrivebord\\Sem-3---G-for-et-Tr---REST\\REST API GåForEtTræ\\REST API GåForEtTræ\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-      ],
       "configFilePaths": [
-        "C:\\Users\\fanni\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Users\\maria\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -472,6 +467,7 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "C:\\Program Files\\dotnet\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -489,8 +485,7 @@
         "enableAudit": "true",
         "auditLevel": "low",
         "auditMode": "direct"
-      },
-      "SdkAnalysisLevel": "9.0.100"
+      }
     },
     "frameworks": {
       "net8.0": {
@@ -520,7 +515,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.101/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
